@@ -1,5 +1,5 @@
-# QuizApp
-Quiz App using SwiftUI following MVC pattern
+# Quizzler
+Quizzler App using SwiftUI following MVC pattern
 
 
 
